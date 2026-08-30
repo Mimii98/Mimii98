@@ -16,7 +16,6 @@
 
 ## ☕ Über mich
 
-- 🎓 Hab mich für einen Ausbildungsplatz als **Fachinformatikerin Systemintegration** beworben
 - 🐧 Schwerpunkt: Linux-Systeme
 - 💻 Baue nebenbei kleine Projekte, um Programmieren zu üben
 - 🌙 Am liebsten mit einer Tasse Tee und ruhiger Musik im Hintergrund
