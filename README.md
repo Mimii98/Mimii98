@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,100:8B5E3C&height=200&section=header&text=Hi,%20ich%20bin%20Michelle%20%F0%9F%95%AF%EF%B8%8F&fontSize=38&fontColor=F5E6D3&animation=fadeIn&fontAlignY=38">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,100:FFAFD1&height=200&section=header&text=Hi,%20ich%20bin%20Michelle%20%F0%9F%8C%B8&fontSize=38&fontColor=D6478B&animation=fadeIn&fontAlignY=38">
-  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,100:FFAFD1&height=200&section=header&text=Hi,%20ich%20bin%20Michelle%20%F0%9F%8C%B8&fontSize=38&fontColor=D6478B&animation=fadeIn&fontAlignY=38" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,100:8B5E3C&height=200&section=header&text=Hi,%20ich%20bin%20Michelle%20%F0%9F%95%AF%EF%B8%8F&fontSize=38&fontColor=F5E6D3&fontAlignY=38">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,100:FFAFD1&height=200&section=header&text=Hi,%20ich%20bin%20Michelle%20%F0%9F%8C%B8&fontSize=38&fontColor=D6478B&fontAlignY=38">
+  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,100:FFAFD1&height=200&section=header&text=Hi,%20ich%20bin%20Michelle%20%F0%9F%8C%B8&fontSize=38&fontColor=D6478B&fontAlignY=38" width="100%">
 </picture>
 
 <picture>
