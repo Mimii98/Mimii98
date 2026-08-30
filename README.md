@@ -34,7 +34,7 @@
 ## 📌 Aktuelle Projekte
 
 - 🗂️ **[Kontaktbuch-SQLite](https://github.com/Mimii98/Kontaktbuch-SQLite)** — Kontaktverwaltung mit C#, WinForms und SQLite
-- 🍅 **[Pomodoro-Timer](https://github.com/Mimii98/Pomodoro-Timer-Csharp)** — C#-App mit selbst gestaltetem Design (Hintergrund, Icon, Buttons)
+- 🍅 **[Pomodoro-Timer](https://github.com/Mimii98/Pomodoro-Timer-Csharp)** — C#-App mit selbst gemaltem Hintergrund, Icon und Buttons
 
 <div align="center">
 <sub>🕯️ danke fürs Vorbeischauen</sub>
