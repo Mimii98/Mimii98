@@ -7,8 +7,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D4A574&background=2D2424&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;SQLite+%7C+Python">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6B4984&background=FFF0F5&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;SQLite+%7C+Python">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D4A574&background=2D2424&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Linux+%7C+Python+%7C+C%23">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6B4984&background=FFF0F5&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Linux+%7C+Python+%7C+C%23">
   <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6B4984&background=FFF0F5&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8">
 </picture>
 
