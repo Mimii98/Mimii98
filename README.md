@@ -24,7 +24,6 @@
 
 <div align="center">
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-D4A574?style=for-the-badge&logo=visualstudio&logoColor=2D2424)
 ![C#](https://img.shields.io/badge/C%23-D4A574?style=for-the-badge&logo=csharp&logoColor=2D2424)
 ![Python](https://img.shields.io/badge/Python-D4A574?style=for-the-badge&logo=python&logoColor=2D2424)
 ![Linux](https://img.shields.io/badge/Linux-D4A574?style=for-the-badge&logo=linux&logoColor=2D2424)
