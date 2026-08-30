@@ -35,6 +35,7 @@
 
 - 🗂️ **[Kontaktbuch-SQLite](https://github.com/Mimii98/Kontaktbuch-SQLite)** — Kontaktverwaltung mit C#, WinForms und SQLite
 - 📝 Bewerbungstool — kleine Flask-App zur Verwaltung von Bewerbungen
+- 🍅 **[Pomodoro-Timer](https://github.com/Mimii98/Pomodoro-Timer-Csharp)** — C#-App mit selbst gestaltetem Design (Hintergrund, Icon, Buttons)
 
 <div align="center">
 <sub>🕯️ danke fürs Vorbeischauen</sub>
