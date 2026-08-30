@@ -7,17 +7,17 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D4A574&background=2D2424&center=true&vCenter=true&width=600&lines=Angehende+Fachinformatikerin+f%C3%BCr+Systemintegration;C%23+%7C+SQLite+%7C+Python+%7C+PowerShell;Lernt.+Baut.+Debuggt.+%E2%98%95">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6B4984&background=FFF0F5&center=true&vCenter=true&width=600&lines=Angehende+Fachinformatikerin+f%C3%BCr+Systemintegration;C%23+%7C+SQLite+%7C+Python+%7C+PowerShell;Lernt.+Baut.+Debuggt.+%E2%98%95">
-  <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6B4984&background=FFF0F5&center=true&vCenter=true&width=600&lines=Angehende+Fachinformatikerin+f%C3%BCr+Systemintegration">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D4A574&background=2D2424&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Bewirbt+sich+f%C3%BCr+einen+Ausbildungsplatz+FISI;SQLite+%7C+Python+%7C+PowerShell">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6B4984&background=FFF0F5&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Bewirbt+sich+f%C3%BCr+einen+Ausbildungsplatz+FISI;SQLite+%7C+Python+%7C+PowerShell">
+  <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6B4984&background=FFF0F5&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8">
 </picture>
 
 </div>
 
 ## ☕ Über mich
 
-- 🎓 Ich mache eine Ausbildung zur **Fachinformatikerin Systemintegration**
-- 🪟 Schwerpunkt: Windows-Systeme & PowerShell-Administration
+- 🎓 Hab mich für einen Ausbildungsplatz als **Fachinformatikerin Systemintegration** beworben
+- 🐧 Schwerpunkt: Linux-Systeme
 - 💻 Baue nebenbei kleine Projekte, um Programmieren zu üben
 - 🌙 Am liebsten mit einer Tasse Tee und ruhiger Musik im Hintergrund
 
@@ -29,8 +29,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-D4A574?style=for-the-badge&logo=sqlite&logoColor=2D2424)
 ![Python](https://img.shields.io/badge/Python-D4A574?style=for-the-badge&logo=python&logoColor=2D2424)
 ![Flask](https://img.shields.io/badge/Flask-D4A574?style=for-the-badge&logo=flask&logoColor=2D2424)
-![PowerShell](https://img.shields.io/badge/PowerShell-D4A574?style=for-the-badge&logo=powershell&logoColor=2D2424)
-![Windows](https://img.shields.io/badge/Windows-D4A574?style=for-the-badge&logo=windows11&logoColor=2D2424)
+![Linux](https://img.shields.io/badge/Linux-D4A574?style=for-the-badge&logo=linux&logoColor=2D2424)
 
 </div>
 
