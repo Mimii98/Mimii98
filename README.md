@@ -18,7 +18,7 @@
 
 - 🐧 Schwerpunkt: Linux-Systeme
 - 💻 Baue nebenbei kleine Projekte, um Programmieren zu üben
-- 🌙 Am liebsten mit einer Tasse Tee und ruhiger Musik im Hintergrund
+- 🍵 Am liebsten mit einer Tasse Tee und ruhiger Musik im Hintergrund
 
 ## 🛠️ Tech-Stack
 
