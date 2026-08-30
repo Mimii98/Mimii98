@@ -38,29 +38,6 @@
 - 🗂️ **[Kontaktbuch-SQLite](https://github.com/Mimii98/Kontaktbuch-SQLite)** — Kontaktverwaltung mit C#, WinForms und SQLite
 - 📝 Bewerbungstool — kleine Flask-App zur Verwaltung von Bewerbungen
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mimii98&show_icons=true&hide_border=true&bg_color=2D2424&title_color=D4A574&text_color=E8C39E&icon_color=D4A574">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mimii98&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C77DFF&text_color=6B4984&icon_color=FF8FAB">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Mimii98&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C77DFF&text_color=6B4984&icon_color=FF8FAB" width="48%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimii98&layout=compact&hide_border=true&bg_color=2D2424&title_color=D4A574&text_color=E8C39E">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimii98&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=C77DFF&text_color=6B4984">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimii98&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=C77DFF&text_color=6B4984" width="48%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mimii98&hide_border=true&background=2D2424&ring=D4A574&fire=D4A574&currStreakLabel=E8C39E&sideLabels=E8C39E&dates=6B4226">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mimii98&hide_border=true&background=FFF0F5&ring=C77DFF&fire=FF8FAB&currStreakLabel=6B4984&sideLabels=6B4984&dates=B19CD9">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=Mimii98&hide_border=true&background=FFF0F5&ring=C77DFF&fire=FF8FAB&currStreakLabel=6B4984&sideLabels=6B4984&dates=B19CD9" width="70%">
-</picture>
-
-</div>
-
 <div align="center">
 <sub>🕯️ danke fürs Vorbeischauen</sub>
 </div>
