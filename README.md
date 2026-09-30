@@ -1,26 +1,20 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6B4226,100:D4A574&height=200&section=header&fontSize=38&fontColor=F5E6D3&fontAlignY=38&animation=None">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=200&section=header&fontSize=38&fontColor=D6478B&fontAlignY=38&animation=None">
-  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=200&section=header&fontSize=38&fontColor=D6478B&fontAlignY=38&animation=None" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D4A574&background=000000&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Linux+%7C+Python+%7C+C%23">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E91E63&background=FFFFFF&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Linux+%7C+Python+%7C+C%23">
-  <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E91E63&background=FFFFFF&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D4A574&background=000000&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Linux+%7C+Python+%7C+C%23+%7C+Cats">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E91E63&background=FFFFFF&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Linux+%7C+Python+%7C+C%23+%7C+Cats">
+  <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E91E63&background=FFFFFF&center=true&vCenter=true&width=600&lines=C%23+goes+brrr+%F0%9F%92%A8;Linux+%7C+Python+%7C+C%23+%7C+Cats">
 </picture>
 
 </div>
 
-## ☕ Über mich
+## *Über mich*
 
-- 🐧 Schwerpunkt: Linux-Systeme
-- 💻 Baue nebenbei kleine Projekte, um Programmieren zu üben
-- 🍵 Am liebsten mit einer Tasse Tee und ruhiger Musik
+-  Baue nebenbei kleine Projekte, um Programmieren zu üben
+-  Bringe dabei gerne meine eigene Kunst mit ein
+-  Am liebsten mit einer Tasse Tee und ruhiger Musik
 
-## 🛠️ Tech-Stack
+## *Tech-Stack*
 
 <div align="center">
 
@@ -31,13 +25,13 @@
 
 </div>
 
-## 📌 Aktuelle Projekte
+## *Aktuelle Projekte*
 
-- 🗂️ **[Kontaktbuch-SQLite](https://github.com/Mimii98/Kontaktbuch-SQLite)** — Kontaktverwaltung mit C#, WinForms und SQLite
-- 🍅 **[Pomodoro-Timer](https://github.com/Mimii98/Pomodoro-Timer-Csharp)** — C#-App mit selbst gemaltem Hintergrund, Icon und Buttons
-- 📝 Bewerbungstool — Flask-App zur Verwaltung von Bewerbungen (mit KI-Unterstützung)
-- 🗒️ Joplin-Extension (mit KI-Unterstützung)
+- Eigene Website mit HTML, CSS und JavaScript *(Repository folgt)*
+- **[Pomodoro-Timer](https://github.com/Mimii98/Pomodoro-Timer-Csharp)** — C#-App mit selbst gemaltem Hintergrund und Icon
+- **[Kontaktbuch-SQLite](https://github.com/Mimii98/Kontaktbuch-SQLite)** — Kontaktverwaltung mit C#, WinForms und SQLite
+
 
 <div align="center">
-<sub>🕯️ danke fürs Vorbeischauen</sub>
+<sub><b><i><h3>Danke fürs Vorbeischauen ᓚᘏᗢ<h3><i><b></sub>
 </div>
