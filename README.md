@@ -33,5 +33,5 @@
 
 
 <div align="center">
-<sub><b><i><h3>Danke fürs Vorbeischauen ᓚᘏᗢ<h3><i><b></sub>
+<sub><b><i><h2>Danke fürs Vorbeischauen ᓚᘏᗢ</h2></i></b></sub>
 </div>
