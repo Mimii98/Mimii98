@@ -28,6 +28,7 @@
 ## *Aktuelle Projekte*
 
 - Eigene Website mit HTML, CSS und JavaScript *(Repository folgt)*
+- **[Terminalspiel](https://github.com/Mimii98/Terminal_game_Csharp)** - In C# geschrieben. Für meine Freunde, um sie zum lachen zu bringen.
 - **[Pomodoro-Timer](https://github.com/Mimii98/Pomodoro-Timer-Csharp)** — C#-App mit selbst gemaltem Hintergrund und Icon
 - **[Kontaktbuch-SQLite](https://github.com/Mimii98/Kontaktbuch-SQLite)** — Kontaktverwaltung mit C#, WinForms und SQLite
 
